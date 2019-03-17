@@ -1,0 +1,20 @@
+@font-face{
+	font-family: 'Ubuntu';
+	src: url('../fonts/Ubuntu-Regular.ttf');
+}
+
+body{
+	font-family: 'Ubuntu', sans-serif;
+}
+
+#curriculo{
+	border: 10px solid #000000;
+	padding-left: 2%;
+	padding-right: 2%;
+	padding-top: 10px;
+	padding-bottom: 10px; 
+}
+
+#btnVoltarEstilo{
+	display: none;
+}
