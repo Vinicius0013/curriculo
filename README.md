@@ -1,4 +1,4 @@
-# curriculo
+# Currículo
 Construção de um modelo de currículo pessoal
 
 Para a visualização da página html, recomendo a instalação do servidor Xammp ou Wammp.
